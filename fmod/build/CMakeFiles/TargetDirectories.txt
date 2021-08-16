@@ -1,0 +1,3 @@
+/home/mcw/McW/fmod/build/CMakeFiles/rebuild_cache.dir
+/home/mcw/McW/fmod/build/CMakeFiles/edit_cache.dir
+/home/mcw/McW/fmod/build/CMakeFiles/fmod.dir
